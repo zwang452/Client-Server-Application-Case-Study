@@ -1,0 +1,12 @@
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\bin\Debug\netcoreapp3.1\HelpdeskDAL.deps.json
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\bin\Debug\netcoreapp3.1\HelpdeskDAL.dll
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.AssemblyInfoInputs.cache
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.AssemblyInfo.cs
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\bin\Debug\netcoreapp3.1\HelpdeskDAL.runtimeconfig.json
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\bin\Debug\netcoreapp3.1\HelpdeskDAL.runtimeconfig.dev.json
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.genruntimeconfig.cache
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\bin\Debug\netcoreapp3.1\HelpdeskDAL.pdb
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.csproj.CoreCompileInputs.cache
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.dll
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.pdb
+D:\OneDrive - fanshaweonline.ca\Source\CaseStudy\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.csprojAssemblyReference.cache
